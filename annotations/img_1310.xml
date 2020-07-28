@@ -1,0 +1,38 @@
+<annotation verified="yes">
+	<folder>images</folder>
+	<filename>img_1310.jpg</filename>
+	<path>D:\Python\KOWALSKYYY\object-detection\Tom and Jerry\images\img_1310.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>854</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Jerry</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>430</xmin>
+			<ymin>123</ymin>
+			<xmax>624</xmax>
+			<ymax>382</ymax>
+		</bndbox>
+	</object>
+	<object>
+		<name>Cousin George</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>307</xmin>
+			<ymin>241</ymin>
+			<xmax>403</xmax>
+			<ymax>388</ymax>
+		</bndbox>
+	</object>
+</annotation>
